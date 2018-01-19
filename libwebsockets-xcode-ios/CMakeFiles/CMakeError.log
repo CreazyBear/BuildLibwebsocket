@@ -1,0 +1,929 @@
+Performing C SOURCE FILE Test LWS_HAVE_inline failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_01213" "-configuration" "Debug"
+2018-01-19 10:10:02.509 xcodebuild[59395:1048781] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_01213 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+Source file was:
+
+		#include <stdio.h>
+		static KEYWORD void a() {}
+		int main(int argc, char **argv) { a(); return 0; }
+		
+Performing C SOURCE FILE Test LWS_HAVE___inline__ failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_83f57" "-configuration" "Debug"
+2018-01-19 10:10:03.976 xcodebuild[59407:1048930] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_83f57 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+Source file was:
+
+		#include <stdio.h>
+		static KEYWORD void a() {}
+		int main(int argc, char **argv) { a(); return 0; }
+		
+Performing C SOURCE FILE Test LWS_HAVE___inline failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_c9be7" "-configuration" "Debug"
+2018-01-19 10:10:05.111 xcodebuild[59418:1048972] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_c9be7 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+Source file was:
+
+		#include <stdio.h>
+		static KEYWORD void a() {}
+		int main(int argc, char **argv) { a(); return 0; }
+		
+Determining if the function bzero exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_f43b5" "-configuration" "Debug"
+2018-01-19 10:10:06.238 xcodebuild[59429:1049016] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_f43b5 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function fork exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_bbd14" "-configuration" "Debug"
+2018-01-19 10:10:07.371 xcodebuild[59440:1049065] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_bbd14 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function getenv exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_e9847" "-configuration" "Debug"
+2018-01-19 10:10:08.472 xcodebuild[59451:1049107] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_e9847 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function malloc exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_9e1fd" "-configuration" "Debug"
+2018-01-19 10:10:09.584 xcodebuild[59462:1049151] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_9e1fd OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function memset exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_d9fb8" "-configuration" "Debug"
+2018-01-19 10:10:10.698 xcodebuild[59473:1049203] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_d9fb8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function realloc exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_12795" "-configuration" "Debug"
+2018-01-19 10:10:11.809 xcodebuild[59484:1049253] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_12795 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function socket exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_aced8" "-configuration" "Debug"
+2018-01-19 10:10:12.901 xcodebuild[59495:1049303] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_aced8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function strerror exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_6be32" "-configuration" "Debug"
+2018-01-19 10:10:14.020 xcodebuild[59506:1049356] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_6be32 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function vfork exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_551ef" "-configuration" "Debug"
+2018-01-19 10:10:15.117 xcodebuild[59517:1049405] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_551ef OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function execvpe exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_5eb17" "-configuration" "Debug"
+2018-01-19 10:10:16.218 xcodebuild[59528:1049451] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_5eb17 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function getifaddrs exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_99f81" "-configuration" "Debug"
+2018-01-19 10:10:17.328 xcodebuild[59539:1049495] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_99f81 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function snprintf exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_251cc" "-configuration" "Debug"
+2018-01-19 10:10:18.431 xcodebuild[59550:1049593] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_251cc OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function _snprintf exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_f4802" "-configuration" "Debug"
+2018-01-19 10:10:19.544 xcodebuild[59561:1049701] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_f4802 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function _vsnprintf exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_4d8ef" "-configuration" "Debug"
+2018-01-19 10:10:20.666 xcodebuild[59572:1049747] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_4d8ef OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function getloadavg exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_972ac" "-configuration" "Debug"
+2018-01-19 10:10:21.768 xcodebuild[59583:1049793] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_972ac OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function atoll exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_73858" "-configuration" "Debug"
+2018-01-19 10:10:22.872 xcodebuild[59594:1049837] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_73858 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function _atoi64 exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_e3f32" "-configuration" "Debug"
+2018-01-19 10:10:23.997 xcodebuild[59605:1049898] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_e3f32 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function _stat32i64 exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_73d9b" "-configuration" "Debug"
+2018-01-19 10:10:25.095 xcodebuild[59616:1049949] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_73d9b OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file dlfcn.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_89cbc" "-configuration" "Debug"
+2018-01-19 10:10:26.199 xcodebuild[59627:1049999] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_89cbc OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file fcntl.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_06487" "-configuration" "Debug"
+2018-01-19 10:10:27.313 xcodebuild[59638:1050042] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_06487 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file in6addr.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_b96b6" "-configuration" "Debug"
+2018-01-19 10:10:28.472 xcodebuild[59649:1050155] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_b96b6 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file inttypes.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_43c77" "-configuration" "Debug"
+2018-01-19 10:10:29.595 xcodebuild[59660:1050201] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_43c77 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file memory.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_3e5a3" "-configuration" "Debug"
+2018-01-19 10:10:30.906 xcodebuild[59671:1050299] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_3e5a3 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file netinet/in.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_4f3ee" "-configuration" "Debug"
+2018-01-19 10:10:32.223 xcodebuild[59682:1050354] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_4f3ee OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file stdint.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_7e296" "-configuration" "Debug"
+2018-01-19 10:10:33.345 xcodebuild[59693:1050398] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_7e296 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file stdlib.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_231b5" "-configuration" "Debug"
+2018-01-19 10:10:34.422 xcodebuild[59704:1050443] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_231b5 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_b4e5b" "-configuration" "Debug"
+2018-01-19 10:10:35.482 xcodebuild[59715:1050490] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_b4e5b OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file string.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_23189" "-configuration" "Debug"
+2018-01-19 10:10:36.597 xcodebuild[59726:1050541] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_23189 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file sys/prctl.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_bc43b" "-configuration" "Debug"
+2018-01-19 10:10:37.884 xcodebuild[59737:1050588] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_bc43b OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file sys/socket.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_9aae8" "-configuration" "Debug"
+2018-01-19 10:10:39.010 xcodebuild[59748:1050633] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_9aae8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file sys/sockio.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_a11e8" "-configuration" "Debug"
+2018-01-19 10:10:40.110 xcodebuild[59759:1050683] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_a11e8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file sys/stat.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_65851" "-configuration" "Debug"
+2018-01-19 10:10:41.229 xcodebuild[59770:1050732] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_65851 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file sys/types.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_ee701" "-configuration" "Debug"
+2018-01-19 10:10:42.335 xcodebuild[59781:1050779] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_ee701 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_697c0" "-configuration" "Debug"
+2018-01-19 10:10:43.452 xcodebuild[59792:1050822] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_697c0 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file vfork.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_551b0" "-configuration" "Debug"
+2018-01-19 10:10:44.571 xcodebuild[59803:1050890] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_551b0 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file sys/capability.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_2277f" "-configuration" "Debug"
+2018-01-19 10:10:45.690 xcodebuild[59814:1050938] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_2277f OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function cap_set_flag exists in the cap failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_94e1c" "-configuration" "Debug"
+2018-01-19 10:10:46.812 xcodebuild[59825:1050986] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_94e1c OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the include file zlib.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_123c8" "-configuration" "Debug"
+2018-01-19 10:10:47.923 xcodebuild[59836:1051035] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_123c8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if files stdlib.h;stdarg.h;string.h;float.h exist failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_a7d77" "-configuration" "Debug"
+2018-01-19 10:10:49.072 xcodebuild[59847:1051156] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_a7d77 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+Source:
+/* */
+#include <stdlib.h>
+#include <stdarg.h>
+#include <string.h>
+#include <float.h>
+
+
+int main(void){return 0;}
+
+Performing C SOURCE FILE Test LWS_HAS_INTPTR_T failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_9da38" "-configuration" "Debug"
+2018-01-19 10:10:50.189 xcodebuild[59858:1051200] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_9da38 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+Source file was:
+#include <stdint.h> 
+	int main(void) {
+		intptr_t test = 1;
+		return 0;
+	}
+Determining if the include file openssl/ecdh.h exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_61e0a" "-configuration" "Debug"
+2018-01-19 10:15:18.839 xcodebuild[59885:1054335] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_61e0a OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function SSL_CTX_set1_param exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_f3956" "-configuration" "Debug"
+2018-01-19 10:15:20.028 xcodebuild[59897:1054479] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_f3956 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function SSL_set_info_callback exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_b462f" "-configuration" "Debug"
+2018-01-19 10:15:21.148 xcodebuild[59908:1054530] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_b462f OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function X509_VERIFY_PARAM_set1_host exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_108f8" "-configuration" "Debug"
+2018-01-19 10:15:22.254 xcodebuild[59919:1054576] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_108f8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function RSA_set0_key exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_edccf" "-configuration" "Debug"
+2018-01-19 10:15:23.365 xcodebuild[59930:1054626] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_edccf OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function TLS_client_method exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_c92c8" "-configuration" "Debug"
+2018-01-19 10:15:24.489 xcodebuild[59941:1054677] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_c92c8 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+
+Determining if the function TLSv1_2_client_method exists failed with the following output:
+Change Dir: /Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/xcodebuild" "-project" "CMAKE_TRY_COMPILE.xcodeproj" "build" "-target" "cmTC_381c1" "-configuration" "Debug"
+2018-01-19 10:15:25.601 xcodebuild[59952:1054722] [MT] DVTPlugInManager: Required plug-in compatibility UUID B395D63E-9166-4CD6-9287-6889D507AD6A for KSImageNamed.ideplugin (com.ksuther.KSImageNamed) not present
+=== BUILD TARGET cmTC_381c1 OF PROJECT CMAKE_TRY_COMPILE WITH CONFIGURATION Debug ===
+
+Check dependencies
+target specifies product type 'com.apple.product-type.tool', but there's no such product type for the 'iphoneos' platform
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Check dependencies
+(1 failure)
+
+

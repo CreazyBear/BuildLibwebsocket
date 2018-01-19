@@ -1,0 +1,7 @@
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/install.dir
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/package.dir
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/dist.dir
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/websockets_shared.dir
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/websockets.dir
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/ALL_BUILD.dir
+/Users/mac/Desktop/Wesocket/libwebsockets-xcode-ios/CMakeFiles/ZERO_CHECK.dir
