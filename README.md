@@ -11,5 +11,6 @@
 
 相关命令:
 
-*. lipo -info libwebsockets.a
-*. lipo -create xxx.a xxxx.a -output xxxxx.a
+* lipo -info libwebsockets.a
+
+* lipo -create xxx.a xxxx.a -output xxxxx.a
